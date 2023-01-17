@@ -1,5 +1,5 @@
-# Universal Project Scaffold
-A scaffold for deploying dockerized flask applications.
+# Recycling Detector
+An image classification model trained with YOLO-3 Object Detection Network to classify recyclable materials. 
 
 ### Quickstart Guide for Local Development
 
